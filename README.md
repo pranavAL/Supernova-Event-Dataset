@@ -134,4 +134,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Wikipedia for article content
 - Model providers (OpenAI, Anthropic, Google) for API access
-- [https://github.com/pdichone/ollama-fundamentals](Fundamental of Ollama). 
+- [Fundamental of Ollama](https://github.com/pdichone/ollama-fundamentals) 
