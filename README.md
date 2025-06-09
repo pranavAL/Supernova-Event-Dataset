@@ -18,7 +18,7 @@ Official repository for the research paper **"Supernova Event Dataset: Interpret
 
 ##  Overview
 
-In this work, we interpret the personality traits of Large Language Models (LLMs) using our proposed Supernova Event Dataset, which includes Wikipedia articles consisting of historical events, biographies, news events, and scientific discoveries. We benchmark models based on their identification and ranking of key life or discovery events, a complex task requiring causal reasoning. A second LLM acts as a judge to infer each model’s personality based on its event selection and interpretation. Our analysis show distinct traits—like emotional reasoning in Orca 2 and analytical framing in Qwen 2.5—enhancing interpretability and trust.
+In this work, we interpret the personality traits of Large Language Models (LLMs) using our proposed Supernova Event Dataset, which includes Wikipedia articles consisting of historical events, biographies, news events, and scientific discoveries. We benchmark models based on their identification and ranking of key life or discovery events, a complex task requiring causal reasoning. A second LLM acts as a judge to infer each model’s personality based on its event selection and interpretation. Our analysis show distinct traits—like emotional reasoning in Orca 2 and analytical framing in Qwen 2.5, enhancing interpretability and trust.
 
 ## Quick Start
 
