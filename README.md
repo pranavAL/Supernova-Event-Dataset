@@ -1,5 +1,5 @@
 # Supernova Event Dataset: Official Code Repository
-[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/xxxx.xxxxx)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2506.12189)
 [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-yellow)](https://huggingface.co/datasets/SupernovaEvent/SupernovaEventDataset)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
@@ -10,7 +10,7 @@ Official repository for the research paper **"Supernova Event Dataset: Interpret
 
 <sup>1</sup>Mila, Quebec AI Institute · <sup>2</sup>Stanford University
 
-[📄 Paper]() | [🌐 Project Page]() | [🤗 Dataset](https://huggingface.co/datasets/SupernovaEvent/SupernovaEventDataset) | [📊 Demo]()
+[📄 Paper](https://arxiv.org/pdf/2506.12189) | [🌐 Project Page](https://supernova-event.ai/) | [🤗 Dataset](https://huggingface.co/datasets/SupernovaEvent/SupernovaEventDataset) | [📊 Demo](https://www.supernova-event.ai/#your-story)
 
 <p align="center">
   <img width="90%" src="assets/intro_fig-1.png" alt="Overview of the Supernova Event Dataset methodology">
@@ -121,7 +121,7 @@ If you find our work useful, please cite:
 @article{agarwal2025supernova,
   title={Supernova Event Dataset: Interpreting Large Language Model's Personality through Critical Event Analysis},
   author={Agarwal, Pranav and Ciucă, Ioana},
-  journal={arXiv preprint arXiv:xxxx.xxxxx},
+  journal={arXiv preprint arXiv:2506.12189},
   year={2025}
 }
 ```
