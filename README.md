@@ -10,6 +10,8 @@ Official repository for the research paper **"Supernova Event Dataset: Interpret
 
 <sup>1</sup>Mila, Quebec AI Institute · <sup>2</sup>Stanford University
 
+accepted at Actionable Interpretability Workshop at ICML 2025
+
 [📄 Paper](https://arxiv.org/pdf/2506.12189) | [🌐 Project Page](https://supernova-event.ai/) | [🤗 Dataset](https://huggingface.co/datasets/SupernovaEvent/SupernovaEventDataset) | [📊 Demo](https://www.supernova-event.ai/#your-story)
 
 <p align="center">
